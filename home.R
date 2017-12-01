@@ -1,5 +1,5 @@
 # This will be the home screen for doing several different functins using R
-
+# Sync r and github 12/1
 # Clean up prox data and assign clean data set to the desktop for import
 source("proxClean.R")
 proxClean()
